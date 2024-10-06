@@ -1,6 +1,7 @@
 # AWS-__PROCJECTS
-series of AWS real time projects 
+  VPC WITH PRIVATE AND PUBLIC SUBNET IN PRODUCTION
 
 
-## Project tittle 
-    VPC WITH PRIVATE AND PUBLIC SUBNET IN PRODUCTION 
+
+## stage _1
+     
